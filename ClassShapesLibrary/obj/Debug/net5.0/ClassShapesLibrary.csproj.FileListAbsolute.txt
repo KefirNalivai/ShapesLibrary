@@ -1,0 +1,12 @@
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\obj\Debug\net5.0\ClassShapesLibrary.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\obj\Debug\net5.0\ClassShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\obj\Debug\net5.0\ClassShapesLibrary.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\obj\Debug\net5.0\ClassShapesLibrary.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\obj\Debug\net5.0\ClassShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\bin\Debug\net5.0\ClassShapesLibrary.deps.json
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\bin\Debug\net5.0\ClassShapesLibrary.dll
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\bin\Debug\net5.0\ref\ClassShapesLibrary.dll
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\bin\Debug\net5.0\ClassShapesLibrary.pdb
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\obj\Debug\net5.0\ClassShapesLibrary.dll
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\obj\Debug\net5.0\ref\ClassShapesLibrary.dll
+C:\Users\Nikita\Desktop\bib\ClassShapesLibrary\obj\Debug\net5.0\ClassShapesLibrary.pdb
