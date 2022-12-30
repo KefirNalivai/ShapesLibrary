@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassShapesLibrary", "ClassShapesLibrary.csproj", "{ED452EAD-0D5C-403F-8B6A-6C37E5EF7EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestShapes", "..\TestShapes\TestShapes.csproj", "{86ED8474-ED53-4803-93A2-EFA8F1FC3940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED452EAD-0D5C-403F-8B6A-6C37E5EF7EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED452EAD-0D5C-403F-8B6A-6C37E5EF7EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED452EAD-0D5C-403F-8B6A-6C37E5EF7EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED452EAD-0D5C-403F-8B6A-6C37E5EF7EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86ED8474-ED53-4803-93A2-EFA8F1FC3940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86ED8474-ED53-4803-93A2-EFA8F1FC3940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86ED8474-ED53-4803-93A2-EFA8F1FC3940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86ED8474-ED53-4803-93A2-EFA8F1FC3940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4764410-3279-43F7-A5FD-8687FEE9B57B}
+	EndGlobalSection
+EndGlobal
